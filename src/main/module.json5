@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "ArkORM",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}

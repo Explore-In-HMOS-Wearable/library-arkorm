@@ -1,0 +1,18 @@
+{
+  "name": "@explore-in-hmos/arkorm",
+  "version": "1.0.0",
+  "description": "Type-safe ORM for HarmonyOS Next with fluent query builder and relation support.",
+  "main": "Index.ets",
+  "author": {"name": "Explore In HMOS", "email": "hmos-dtse@proton.me"},
+  "license": "MIT",
+  "repository": "https://github.com/Explore-In-HMOS/library-arkorm",
+  "keywords": [
+    "orm",
+    "database",
+    "room",
+    "sqlite",
+    "harmonyos",
+    "arkts"
+  ],
+  "dependencies": {}
+}
