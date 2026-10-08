@@ -3,7 +3,7 @@
 # ArkORM
 
 A **type-safe**, fully open-source ORM for HarmonyOS Next with a fluent query builder and relation support. Inspired by Android Room, written in pure ArkTS.
-You can access the demo application click here 👉 **[ArkORM Demo](https://github.com/Explore-In-HMOS/library-arkorm/tree/main/example)**
+You can access the demo application click here 👉 **[ArkORM Demo](https://github.com/Explore-In-HMOS-Wearable/library-arkorm/tree/main/example)**
 
 ## Features
 
